@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="google_map_key"
+        translatable="false">AIzaSyAjd6KUjAbM5h7pPauabyOMpwJoVdfWOCI</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="city_placeholder">City</string>
+    <string name="move_marker">Move marker</string>
+    <string name="temperature">Temperature</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="speed_measure">Km/h</string>
+    <string name="city_added">City is bookmarked</string>
+    <string name="move_marker_for_accuracy">Please move you marker for accuracy</string>
+    <string name="deleted">Deleted</string>
+    <string name="todays_forcast">Todays Forcast</string>
+</resources>
